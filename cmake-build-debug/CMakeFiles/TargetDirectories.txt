@@ -1,0 +1,3 @@
+C:/Users/marjo/CLionProjects/mini_undertale/cmake-build-debug/CMakeFiles/mini_undertale.dir
+C:/Users/marjo/CLionProjects/mini_undertale/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marjo/CLionProjects/mini_undertale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
